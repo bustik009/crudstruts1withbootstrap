@@ -1,5 +1,5 @@
-# crudstruts1withbootstrap
-Struts 1.3 CRUD with Bootstrap
+# crudwithbootstrap
+CRUD with Bootstrap
 
 IDE
 ->Netbeans 8.0.2
